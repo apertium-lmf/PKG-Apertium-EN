@@ -1,0 +1,18 @@
+Copying and Author information
+
+Resource name: English LMF Apertium Dictionary
+Resource identifier: http://hdl.handle.net/10230/17113
+Licence: GPL
+
+Authors:
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
+() Universitat Politècnica de Catalunya
+
+() Jimmy O'Reagan
+
+() Paul Breen
+
