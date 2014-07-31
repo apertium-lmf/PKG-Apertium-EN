@@ -10,6 +10,8 @@ Authors:
 
 () Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
 
+() Generalitat de Catalunya
+
 () Universitat Politècnica de Catalunya
 
 () Jimmy O'Regan
