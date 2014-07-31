@@ -12,7 +12,7 @@ Authors:
 
 () Universitat Politècnica de Catalunya
 
-() Jimmy O'Reagan
+() Jimmy O'Regan
 
 () Paul Breen
 
